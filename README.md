@@ -1,4 +1,4 @@
-# Predictive Text Auto-completion
+# Predictive Text Autocompletion
 Trie tree model for auto-completing words from text
 
 ![](images/HarryPotter.png)
