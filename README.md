@@ -1,7 +1,7 @@
 # predictive-text
 Trie tree model for auto-completing words from text
 
-![](images/Sample Run - Harry Potter.png)
+![](images/HarryPotter.png)
 
 ## Running Program
 
