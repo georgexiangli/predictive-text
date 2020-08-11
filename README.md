@@ -1,2 +1,14 @@
 # predictive-text
-Trie tree model for generating sentences from text
+Trie tree model for auto-completing words from text
+
+![](images/Sample Run - Harry Potter.png)
+
+## Running Program
+
+1. Clone repository
+
+2. Set FILE_NAME to the file containing your test
+
+3. Run TextPredictor.java
+
+4. Enter words that you would like to auto-complete
